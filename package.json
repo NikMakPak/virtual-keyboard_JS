@@ -1,0 +1,26 @@
+{
+  "name": "virtual-keyboard_js",
+  "version": "1.0.0",
+  "description": "Virtual keyboard for websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikMakPak/virtual-keyboard_JS.git"
+  },
+  "keywords": [
+    "virtual-keyboard"
+  ],
+  "author": "nikmak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikMakPak/virtual-keyboard_JS/issues"
+  },
+  "homepage": "https://github.com/NikMakPak/virtual-keyboard_JS#readme",
+  "devDependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
+}

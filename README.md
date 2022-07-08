@@ -12,6 +12,8 @@
 1. JS
 2. npm
 3. Webpack
+4. DOM и events
+5. git
 - _Демонстрация_: 
 https://nikmakpak.github.io/virtual-keyboard_JS/
 - _PDF_: 
